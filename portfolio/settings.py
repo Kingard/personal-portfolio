@@ -11,6 +11,7 @@ https://docs.djangoproject.com/en/3.2/ref/settings/
 """
 
 # web gunicorn portfolio.wsgi:application --log-file -
+# xcdc
 
 from pathlib import Path
 import django_heroku
